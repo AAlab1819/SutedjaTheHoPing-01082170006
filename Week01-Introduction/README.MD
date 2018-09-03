@@ -1,6 +1,6 @@
 912A-TrickyAlchemy
 =====
-The Problem of Tricky Alchemy are, how many Grisha needs the colour crystal which is have 2 colours, yellow and blue to make crystals for the amount of colour balls as he wants.
+The Problem of Tricky Alchemy are, how many Grisha needs the colour crystal which is have 2 colours, yellow and blue to make crystals for the amount of colour balls as he wants.*separate paragraph*
 Then we just have to make the calculations like this:
 1.So from the questions given:
 "**It's known that to produce a yellow ball one needs two yellow crystals, green — one yellow and one blue, and for a blue ball, three blue crystals are enough.**
