@@ -1,4 +1,3 @@
-The problem of division
 912A-Tricky Alchemy
 =====
 The Problem of Tricky Alchemy are, how many Grisha needs the colour crystal which is have 2 colours, yellow and blue to make crystals for the amount of colour balls as he wants.<br />
@@ -15,7 +14,6 @@ this code was made for the blue crystal.
 both of the codes are made in purpose so that if the crystal are needed to add.<br />
 then after the code done, simply print out the "**a**".<br />
 [Submission Link](http://codeforces.com/contest/912/submission/42420830) | [Problem Link](http://codeforces.com/contest/912/problem/A)<br />
-854A-Fraction
-====
+
     
 
