@@ -13,7 +13,7 @@ then for the second code is<br />
 this code was made for the blue crystal.
 both of the codes are made in purpose so that if the crystal are needed to add.<br />
 then after the code done, simply print out the "**a**".<br />
-[Submission Link](http://codeforces.com/contest/912/submission/42420830) | [Problem Link] (http://codeforces.com/contest/912/problem/A)<b /r>
+[Submission Link](http://codeforces.com/contest/912/submission/42420830) | [Problem Link](http://codeforces.com/contest/912/problem/A)<b /r>
 
     
 
