@@ -7,7 +7,7 @@ Then we just have to make the calculations like this:<br />
 `if (cy<(2*y+g))
      a+=((2*y+g)-cy);`<br />
 so if the amount of cy (Crystal Yellow) is less than 2 Yellow + green(this is because 1 Yellow ball needs 2 crystal and 1 Green ball needs 1 yellow crystal, then i save the amount in **a** and the total of 2 Yellow Ball + 1 Green Ball subtract by the Crystal Yellow and added with the **a**.<br />
-then for the second code is
+then for the second code is<br />
 ` if (cb<(g+3*b))
       a+=((g+3*b)-cb);`
 this code is for the blue crystal.
