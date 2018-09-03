@@ -17,6 +17,6 @@ then after the code done, simply print out the "**a**".<br />
 [Submission Link](http://codeforces.com/contest/912/submission/42420830) | [Problem Link](http://codeforces.com/contest/912/problem/A)<br />
 854A-Fraction
 =====
-
+a
     
 
