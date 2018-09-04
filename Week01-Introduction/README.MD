@@ -35,7 +35,7 @@ For the first line output, we print out "**YES**" or "**NO**" to tell us whether
 For the second line output, we print out the student's rank index.
 For saving the index we save the index at the element of the maps using for loop.
 Then, we use counter so that the index will be printed based on the size of the team using for loop.
-Finally, we just print out using for loop, and the iteration im using pointer because if we didn't use pointer it will printout only the address.
+Finally, we just print out using for loop, and the iteration im using pointer because if we didn't use pointer it will printout only the address.ao
 [Submission Link](http://codeforces.com/contest/988/submission/42427671) | [Problem Link](http://codeforces.com/contest/988/problem/A)
 
 
