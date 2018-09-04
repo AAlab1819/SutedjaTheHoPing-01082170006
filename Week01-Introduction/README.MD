@@ -33,6 +33,7 @@ But, some of the number for example "**34**", the output will be "**16 18**", so
     
 For the odd number, it is more simple than the even number, you just have to divide the number by 2 for the numerator, and for the denominator you just insert the number subtract by the numerator.
 In the end, for the output, you just print the numerator and denominator.
+
 [Submission Link](http://codeforces.com/contest/854/submission/42424110) | [Problem Link](http://codeforces.com/contest/854/problem/A)
 
 ### 988A-Diverse Team
