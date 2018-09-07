@@ -1,4 +1,4 @@
-### 912A-Tricky Alchemy
+# 912A-Tricky Alchemy
 
 The Problem of Tricky Alchemy are, how many Grisha needs the colour crystal which is have 2 colours, yellow and blue to make crystals for the amount of colour balls as he wants.
 Then we just have to make the calculations like this:
@@ -20,7 +20,7 @@ then after the code done, simply print out the "**a**".
 
 [Submission Link](http://codeforces.com/contest/912/submission/42420830) | [Problem Link](http://codeforces.com/contest/912/problem/A)
 
-### 854A-Division
+# 854A-Division
 
 The problem of Division is simple, so petya wants the fraction to be irreducible and it means that the division's numerator are less than denominator and both of the numerator and denominator are coprime (they do not have positive common divisors except 1).
 First We input the number that we wants, if it's even then the number will be divided by 2 and subtract by 1, and it'll inserted to the numerator, and for the denominator will be inserted with the number that divided by 2, and will be added by 1.
@@ -36,7 +36,7 @@ In the end, for the output, you just print the numerator and denominator.
 
 [Submission Link](http://codeforces.com/contest/854/submission/42424110) | [Problem Link](http://codeforces.com/contest/854/problem/A)
 
-### 988A-Diverse Team
+# 988A-Diverse Team
 From the problem that I solved, it's quite complex, that we have to use "**map**" library.
 For the first line of input, it is included the number of the students, the size of the team(the team must consist of students with different rank) and the second line of input will be the rank of each students.
 For the first line output, we print out "**YES**" or "**NO**" to tell us whether the student's rank that we input are less than or same with the size of team that we wants.
