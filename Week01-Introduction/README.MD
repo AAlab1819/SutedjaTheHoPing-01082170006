@@ -47,8 +47,5 @@ Then, we use counter so that the index will be printed based on the size of the 
 Finally, we just print out using for loop, and the iteration im using pointer because if we didn't use pointer it will printout only the address.
 
 [Submission Link](http://codeforces.com/contest/988/submission/42427671) | [Problem Link](http://codeforces.com/contest/988/problem/A)
-a
 
-
-    
 
