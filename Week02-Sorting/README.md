@@ -10,6 +10,7 @@ the secretary, for example for the input :
 
 After input the number, im sorting it using **Counting Sort**, then as you can see, after the call session sorted, it sorted become 1 1 2 3 5,
 it means there are 1 call connects consist of 2 people, if there's more than 2 people, the output will be -1.
+
 [Submission Link](http://codeforces.com/contest/291/submission/42599409) | [Problem Link](http://codeforces.com/problemset/problem/291/A)
 
 # 768A - Oath of the Night's Watch
@@ -21,6 +22,8 @@ So the example input as follows:
 
 We input 3 steward and for the values that assigned for the steward is 3 1 5, then it'll sorted become 1 3 5, im using **Shell Sort**,
 and for the output will be 1, because number 3 has one that less than and one that has greater than, and if there are no steward that
-less than and greater than, the output will be 0.
+less than and greater than, the output will be 0. When i used the sorting library, the code works, but using the **Shell Sort** the code works also but the result is Time Limit Exceeded/
+
+[Submission Link](http://codeforces.com/contest/768/submission/42598535) | [Problem Link](http://codeforces.com/problemset/problem/768/A)
 
 # 230A - Dragons
