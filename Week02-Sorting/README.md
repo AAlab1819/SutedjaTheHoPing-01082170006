@@ -32,4 +32,4 @@ The Problem of Dragons is simple, but for the code quite complex, we use struct,
 strength and **n** that contains the dragon's amount, then we input the dragon's strength and the bonus if Kirito succeed to defeat the
 dragon in condition that dragon's strength are less than Kirito's strength, after inputting all of the bonus point and the strength, i used **Shell Sort** for this case, because it's quite simple in using of Shell Sort, after all of the strength are sorted, I for looped all of the strength and bonus array, to count whether Kirito's strength are greater than the dragon's strength, and Kirito can't move or go to the next dragon if he can't defeat the dragon, so for the output will be **NO**, but if Kirito succeed to defeat all of the dragon, the output will be **YES**.
 
-[Submission Link]() | [Problem Link](http://codeforces.com/problemset/problem/230/A)
+[Submission Link](http://codeforces.com/contest/230/submission/42742228) | [Problem Link](http://codeforces.com/problemset/problem/230/A)
