@@ -13,6 +13,8 @@ Average Case : θ(n)
 
 Worst Case : O(n)
 
+[Submission Link](http://codeforces.com/contest/148/submission/42998824) | [Problem Link](http://codeforces.com/contest/148/problem/A)
+
 # 469A - I Wanna Be The Guy
 
 I'm using vector for this problem, it's simple for the first just input the levels,
@@ -25,5 +27,7 @@ Best Case : Ω(n^2)
 Average Case : θ(n^2)
 
 Worst Case : O(n^2)
+
+[Submission Link](http://codeforces.com/contest/469/submission/43001750) | [Problem Link](http://codeforces.com/contest/469/problem/A)
  
 
