@@ -29,5 +29,9 @@ Average Case : θ(n^2)
 Worst Case : O(n^2)
 
 [Submission Link](http://codeforces.com/contest/469/submission/43001750) | [Problem Link](http://codeforces.com/contest/469/problem/A)
- 
+
+# 492B - Vanya and Lanterns
+
+This problem, im using heapsort to sort the position of the lantern, after sorted, find the
+biggest distance between two lanterns, 
 
