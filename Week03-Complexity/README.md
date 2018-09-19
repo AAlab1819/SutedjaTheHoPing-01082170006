@@ -32,6 +32,18 @@ Worst Case : O(n^2)
 
 # 492B - Vanya and Lanterns
 
-This problem, im using heapsort to sort the position of the lantern, after sorted, find the
-biggest distance between two lanterns, 
+This problem, im using heapsort to sort the position of the lantern, then just input the number of lanterns, 
+the length, then input the i-th of lanterns using loop, then sort it, after sorted, I use for, inside it, I subtract
+the second index and the first index as long as the temp<d, the temp will be d, then print precision(10), and for the last
+just print the max number and divide it by 2.
+
+Best Case : Ω(n log(n))
+
+Average Case : θ(n log(n))
+
+Worst Case : O(n log(n))
+
+[Submission Link](https://codeforces.com/contest/492/submission/43064829) | [Problem Link](https://codeforces.com/problemset/problem/492/B)
+
+
 
