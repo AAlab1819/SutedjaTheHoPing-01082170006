@@ -20,4 +20,9 @@ Row are numbered from top to bottom and columns from left to right.
 
 then print the k integers which the maximum number of pictures, that Igor can see.
 
-The solution that I used 
+The solution that I used is floodfill, the purpose of using floodfill is to search 
+the movement of Igor, after all, just store all the answer and print it.
+
+The complexity for this problem is O(nm)
+
+[Submission Link](http://codeforces.com/contest/598/submission/43440793) | [Problem Link](http://codeforces.com/problemset/problem/598/D)
