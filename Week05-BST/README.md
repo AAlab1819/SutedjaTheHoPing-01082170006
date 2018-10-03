@@ -26,4 +26,23 @@ Complexity: *O*(*n*<sup>2</sup>)<br>
 [Submission Link](http://codeforces.com/contest/115/submission/43725179) | [Problem Link](http://codeforces.com/contest/115/problem/A)<br>
 
 # 913B - Christmas Spruce
+The problem here is about, making a rooted tree, which is there are vertex v and u, v as a parent 
+and u as a children, a tree will called a spruce if it's every non-leaf vertex has at least 3 leaf children.
+
+The first input will be one integer contains the number of vertices in the tree, and 
+each of the next n-1 lines contains one integer that contains the index of the parent f the i_1-th vertex.
+
+The output will print "YES" if it is a spruce tree, and "No" if it is not a spruce tree
 # 4C - Registration System
+
+The problem is quite simple, we just have to make a registration system, everytime a new user wants to register,
+they sends to the system a request with his name, if the name doesn't exist in the system, it is inserted to the database, and the use
+gets the response OK. If the name already exists, the system will make a new user name, by putting number start from 1 behind the name (name1, name 2, ...).
+
+The first input contains number n, and the following n line contains the requests to the system. 
+
+The output will print n lines, which response to the requests: OK in case of success in registration, 
+or prompt with a new name, if the requested name is already taken.
+
+Complexity: O(nlogn)<br>
+[Submission Link](http://codeforces.com/contest/4/submission/43733274) | [Problem Link](http://codeforces.com/problemset/problem/4/C)<br>
