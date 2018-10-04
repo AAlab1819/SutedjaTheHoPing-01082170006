@@ -30,9 +30,14 @@ The problem here is about, making a rooted tree, which is there are vertex v and
 and u as a children, a tree will called a spruce if it's every non-leaf vertex has at least 3 leaf children.
 
 The first input will be one integer contains the number of vertices in the tree, and 
-each of the next n-1 lines contains one integer that contains the index of the parent f the i_1-th vertex.
+each of the next n-1 lines contains one integer that contains the index of the parent i-th vertex.
 
-The output will print "YES" if it is a spruce tree, and "No" if it is not a spruce tree
+Last step, we have to calculate the amount of children in the vertex. Then use for loop, in condition if it has more than
+0 but less than 3, it will print out "NO", and if it's true, it will print "YES"
+
+Complexity:O(n)<br>
+[Submission Link](http://codeforces.com/contest/913/submission/43790100) | [Problem Link](http://codeforces.com/contest/913/problem/B)
+
 # 4C - Registration System
 
 The problem is quite simple, we just have to make a registration system, everytime a new user wants to register,
