@@ -10,6 +10,7 @@ Then it is followed with how many questions will their be. Each question consist
 The output is the sum of numbers from l to r according its type. 
 
 Complexity Worst Case: O(nlogn)
+
 [Problem Link](http://codeforces.com/problemset/problem/433/B) | [Submission Link](http://codeforces.com/contest/433/submission/45121238)
 
 # 913C - Party Lemonade
