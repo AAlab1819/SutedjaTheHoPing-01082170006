@@ -25,7 +25,7 @@ The first solution here is to store the cost for each type of bottle. <br>
 Then, we will check if we can buy 2 bottle of smaller type of bottle with cheaper price rather than 1 bottle with higher price.<br> 
 Then after all done we loop all the bottles from the highest liters down to the smallest liters.<br>
 Then we will see is it cheaper to buy 2 of the biggest bottle if it is still left to 
-fullfill or 1 bottle and other bottle to fullfill the need of the lemonade. 
+fullfill or 1 bottle and other bottle to fullfill the need of the lemonade.<br> 
 
 Complexity Worst Case: O(n)
 
