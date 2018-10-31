@@ -1,4 +1,5 @@
 #433B - Kuriyama Mirai's Stones
+
 From this problem, we are given a number of stones, each of the stones have their own prices.<br> 
 The questions that is possible from the problem are type one and two:<br> 
 1. The first type will be the total of stone's cost from l to r and the second type will be the total of<br> 
@@ -12,6 +13,7 @@ Complexity Worst Case: O(nlogn)
 [Problem Link](http://codeforces.com/problemset/problem/433/B) | [Submission Link](http://codeforces.com/contest/433/submission/45121238)
 
 #913C - Party Lemonade
+
 From this problem, we have to find the cheapest cost to fullfill the lemonade liters needed.<br> 
 Each bottle have different volume and different cost too, and the volume of the i-th bottle will be 2i-1 liters.<br> 
 You can buy more than a bottle with the same volume. You can have more lemonade in liters than the required number.<br> 
